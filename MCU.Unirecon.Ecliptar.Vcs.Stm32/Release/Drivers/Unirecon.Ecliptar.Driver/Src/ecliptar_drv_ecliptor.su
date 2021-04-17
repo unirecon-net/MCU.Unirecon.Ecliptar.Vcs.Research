@@ -1,0 +1,34 @@
+ecliptar_drv_ecliptor.h:270:7:EcliptorDriver::~EcliptorDriver()	0	static
+ecliptar_drv_ecliptor.h:270:7:virtual EcliptorDriver::~EcliptorDriver()	8	static
+ecliptar_drv_ecliptor.h:242:7:EcliptorProperties::EcliptorProperties()	24	static
+ecliptar_drv_ecliptor.cpp:10:1:EcliptorDriver::EcliptorDriver()	8	static
+ecliptar_drv_ecliptor.cpp:53:11:void EcliptorDriver::Attach(PwmTimer*, PwmTimer*, AdcData*, int, int, int, int, int, int)	48	static
+ecliptar_drv_ecliptor.cpp:48:11:void EcliptorDriver::Attach(PwmTimer*, PwmTimer*, AdcData*, int, int, int, int)	32	static
+ecliptar_drv_ecliptor.cpp:37:11:void EcliptorDriver::Attach(PwmTimer*, PwmTimer*, AdcData*)	32	static
+ecliptar_drv_ecliptor.cpp:43:11:void EcliptorDriver::Attach(PwmTimer*, PwmTimer*, AdcData*, int, int)	24	static
+ecliptar_drv_ecliptor.cpp:78:11:void EcliptorDriver::Detach()	0	static
+ecliptar_drv_ecliptor.cpp:82:11:bool EcliptorDriver::Attached()	0	static
+ecliptar_drv_ecliptor.cpp:91:11:void EcliptorDriver::DefineAreas(int, int, int, int, int, int, int)	36	static
+ecliptar_drv_ecliptor.cpp:140:11:void EcliptorDriver::DefineRotator(uint16_t, uint16_t, uint16_t, uint16_t, float, RotatorDirection)	20	static
+ecliptar_drv_ecliptor.cpp:178:11:void EcliptorDriver::RotateAngle(float)	16	static
+ecliptar_drv_ecliptor.cpp:193:11:void EcliptorDriver::RotateRadians(float)	8	static
+ecliptar_drv_ecliptor.cpp:197:11:void EcliptorDriver::RotatePercents(float)	16	static
+ecliptar_drv_ecliptor.cpp:260:11:bool EcliptorDriver::PowerLevel(float)	24	static
+ecliptar_drv_ecliptor.cpp:285:16:void EcliptorDriver::innerPowerLevel(int)	4	static
+ecliptar_drv_ecliptor.cpp:209:11:bool EcliptorDriver::tholdPowerOn(uint16_t)	16	static
+ecliptar_drv_ecliptor.cpp:239:11:bool EcliptorDriver::PowerLevel(int)	24	static
+ecliptar_drv_ecliptor.cpp:304:18:DynamicsData* EcliptorDriver::readSensorDynamics()	0	static
+ecliptar_drv_ecliptor.cpp:314:17:MeasureData* EcliptorDriver::readSensorMeasure()	0	static
+ecliptar_drv_ecliptor.cpp:323:18:PositionData* EcliptorDriver::readSensorPosition()	0	static
+ecliptar_drv_ecliptor.cpp:332:16:MotionData* EcliptorDriver::readEclipticMotion()	0	static
+ecliptar_drv_ecliptor.cpp:494:11:void EcliptorDriver::computeRiseDelta(int16_t)	0	static
+ecliptar_drv_ecliptor.cpp:505:11:void EcliptorDriver::computeFallDelta(int16_t)	0	static
+ecliptar_drv_ecliptor.cpp:487:11:void EcliptorDriver::computeMotionDelta(int16_t)	0	static
+ecliptar_drv_ecliptor.cpp:532:11:void EcliptorDriver::computeRise()	8	static
+ecliptar_drv_ecliptor.cpp:546:11:void EcliptorDriver::computeFall()	8	static
+ecliptar_drv_ecliptor.cpp:560:11:void EcliptorDriver::computeAngularVelocity()	16	static
+ecliptar_drv_ecliptor.cpp:517:11:void EcliptorDriver::computeMotion()	8	static
+ecliptar_drv_ecliptor.cpp:579:11:void EcliptorDriver::OperativeMeasurements(AdcData*, size_t)	24	static
+ecliptar_drv_ecliptor.cpp:589:16:void EcliptorDriver::ComputativeMeasurements(AdcData*, size_t)	32	static
+ecliptar_drv_ecliptor.cpp:574:16:virtual void EcliptorDriver::ConversionHalfComplete(AdcData*, size_t)	8	static
+ecliptar_drv_ecliptor.cpp:570:16:virtual void EcliptorDriver::ConversionComplete(AdcData*, size_t)	8	static

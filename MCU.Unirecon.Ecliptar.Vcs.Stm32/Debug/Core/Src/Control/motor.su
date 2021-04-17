@@ -1,0 +1,10 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+base.h:22:7:constexpr ControlHandler::ControlHandler()	16	static
+motor.cpp:10:1:MotorController::MotorController(MotorDriver*, int)	24	static
+motor.cpp:16:13:void MotorController::assign(int, int)	24	static
+motor.cpp:20:13:void MotorController::assign(int, ControlChannel*)	24	static
+motor.cpp:25:13:virtual void MotorController::handleControl(uint8_t)	24	static
+motor.cpp:34:13:virtual void MotorController::handleControlStop()	16	static
+motor.cpp:37:1:void __static_initialization_and_destruction_0(int, int)	16	static
+motor.cpp:37:1:cpp)	8	static
+motor.cpp:37:1:cpp)	8	static

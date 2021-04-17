@@ -1,0 +1,19 @@
+ecliptar_rc_ibus.cpp:106:6:virtual bool RC_IBUS::Attached()	0	static
+ecliptar_rc_ibus.cpp:114:6:virtual bool RC_IBUS::Available()	0	static
+ecliptar_rc_ibus.cpp:264:13:virtual void RC_IBUS::TransmitCompleteEvent(Ring*, size_t)	0	static
+ecliptar_rc_ibus.cpp:240:6:virtual void RC_IBUS::PrintInfoReport(ControlChannel*)	24	static
+ecliptar_rc_ibus.cpp:10:1:RC_IBUS::RC_IBUS()	0	static
+ecliptar_rc_ibus.cpp:28:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, uint16_t*, uint16_t*, uint16_t*, int*)	40	static
+ecliptar_rc_ibus.cpp:17:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*)	24	static
+ecliptar_rc_ibus.cpp:21:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, uint16_t*, uint16_t*, uint16_t*)	24	static
+ecliptar_rc_ibus.cpp:71:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, ControlChannel*)	32	static
+ecliptar_rc_ibus.cpp:158:9:uint8_t RC_IBUS::AddSensor(uint8_t, uint8_t)	12	static
+ecliptar_rc_ibus.cpp:173:6:void RC_IBUS::SetSensorMeasurement(uint8_t, int32_t)	0	static
+ecliptar_rc_ibus.cpp:179:9:uint8_t RC_IBUS::pulseDepreciation(ControlChannel*)	12	static
+ecliptar_rc_ibus.cpp:217:7:float RC_IBUS::pulseToPercents(ControlChannel*)	8	static
+ecliptar_rc_ibus.cpp:146:9:uint8_t RC_IBUS::readChannel(ControlChannel*)	16	static
+ecliptar_rc_ibus.cpp:124:17:virtual ControlChannel* RC_IBUS::ReadChannels()	24	static,ignoring_inline_asm
+ecliptar_rc_ibus.cpp:354:13:void RC_IBUS::ibusSensors(uint8_t*)	12	static
+ecliptar_rc_ibus.cpp:268:13:void RC_IBUS::ibusReceiver(Ring*, size_t)	32	static
+ecliptar_rc_ibus.cpp:260:13:virtual void RC_IBUS::ReceiptCompleteEvent(Ring*, size_t)	8	static
+ecliptar_rc_ibus.cpp:433:11:cpp)	0	static

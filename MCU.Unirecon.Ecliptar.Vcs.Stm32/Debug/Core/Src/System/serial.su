@@ -1,0 +1,27 @@
+adapter.h:28:10:SerialAdapter::~SerialAdapter()	16	static
+adapter.h:28:10:virtual SerialAdapter::~SerialAdapter()	16	static
+serial.h:25:2:SerialDevice::~SerialDevice()	16	static
+serial.h:25:2:virtual SerialDevice::~SerialDevice()	16	static
+adapter.h:25:7:SerialAdapter::SerialAdapter()	16	static
+serial.cpp:10:5:SerialDevice::SerialDevice(UART_HandleTypeDef*)	32	static
+serial.cpp:21:5:SerialDevice::SerialDevice(SPI_HandleTypeDef*)	32	static
+serial.cpp:32:5:SerialDevice::SerialDevice(I2C_HandleTypeDef*, uint8_t)	40	static
+serial.cpp:45:9:void SerialDevice::Open()	24	static
+serial.cpp:56:9:void SerialDevice::Open(size_t, size_t)	32	static
+serial.cpp:68:9:void SerialDevice::Open(void*, size_t, void*, size_t)	32	static
+serial.cpp:82:11:uint8_t SerialDevice::Available()	16	static
+serial.cpp:87:9:void SerialDevice::Write(const void*, size_t)	32	static
+serial.cpp:92:11:uint8_t SerialDevice::Read()	16	static
+serial.cpp:96:11:uint8_t SerialDevice::ReadedByte()	16	static
+serial.cpp:100:11:size_t SerialDevice::Read(void*, size_t)	24	static
+serial.cpp:105:9:virtual void SerialDevice::Receive(void*, size_t, uint16_t)	32	static
+serial.cpp:109:9:virtual void SerialDevice::Transmit(void*, size_t, uint16_t)	40	static
+serial.cpp:129:12:virtual uint32_t SerialDevice::DeviceAddress()	16	static
+serial.cpp:169:9:void SerialDevice::SetReceiptEvent(SerialEvent*)	16	static
+serial.cpp:173:9:void SerialDevice::SetTransmitEvent(SerialEvent*)	16	static
+serial.cpp:178:9:void SerialDevices::Add(SerialDevice*)	24	static
+serial.cpp:195:16:SerialDevice* SerialDevices::Get(uint32_t)	32	static
+serial.cpp:212:11:uint8_t SerialDevices::Remove(uint32_t)	32	static
+serial.h:74:7:SerialDevices::SerialDevices()	16	static
+serial.cpp:249:1:void __static_initialization_and_destruction_0(int, int)	16	static
+serial.cpp:249:1:cpp)	8	static

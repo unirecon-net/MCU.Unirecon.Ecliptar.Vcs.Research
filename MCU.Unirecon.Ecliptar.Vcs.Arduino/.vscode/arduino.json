@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Ecliptar.ino",
+    "output": "bin",
+    "port": "COM4"
+}

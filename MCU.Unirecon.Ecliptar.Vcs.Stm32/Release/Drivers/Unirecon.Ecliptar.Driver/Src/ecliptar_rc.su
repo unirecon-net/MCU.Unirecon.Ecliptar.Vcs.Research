@@ -1,0 +1,5 @@
+ecliptar_rc.cpp:8:19:virtual bool RemoteControl::Attached()	0	static
+ecliptar_rc.cpp:13:19:virtual bool RemoteControl::Available()	0	static
+ecliptar_rc.cpp:18:21:virtual ControlChannel* RemoteControl::ReadChannels()	0	static
+ecliptar_rc.cpp:23:19:virtual void RemoteControl::PrintInfoReport(ControlChannel*)	0	static
+ecliptar_rc.cpp:3:11:void RemoteControl::Attach(RemoteController*)	0	static

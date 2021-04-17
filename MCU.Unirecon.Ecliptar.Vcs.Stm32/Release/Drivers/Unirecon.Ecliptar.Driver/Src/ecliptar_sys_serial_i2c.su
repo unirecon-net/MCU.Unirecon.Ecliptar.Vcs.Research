@@ -1,0 +1,5 @@
+ecliptar_sys_serial_i2c.h:15:10:SerialDevice_I2C::~SerialDevice_I2C()	0	static
+ecliptar_sys_serial_i2c.cpp:20:10:virtual uint32_t SerialDevice_I2C::DeviceAddress()	0	static
+ecliptar_sys_serial_i2c.cpp:11:6:virtual void SerialDevice_I2C::Receive(void*, size_t, uint16_t)	16	static
+ecliptar_sys_serial_i2c.h:15:10:virtual SerialDevice_I2C::~SerialDevice_I2C()	8	static
+ecliptar_sys_serial_i2c.cpp:3:1:SerialDevice_I2C::SerialDevice_I2C(I2C_HandleTypeDef*, uint8_t)	8	static

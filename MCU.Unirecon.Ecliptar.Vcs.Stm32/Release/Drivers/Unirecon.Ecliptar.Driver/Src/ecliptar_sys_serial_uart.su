@@ -1,0 +1,6 @@
+ecliptar_sys_serial_uart.h:15:10:SerialDevice_UART::~SerialDevice_UART()	0	static
+ecliptar_sys_serial_uart.cpp:20:10:virtual uint32_t SerialDevice_UART::DeviceAddress()	0	static
+ecliptar_sys_serial_uart.cpp:11:7:virtual void SerialDevice_UART::Receive(void*, size_t, uint16_t)	0	static
+ecliptar_sys_serial_uart.cpp:15:7:virtual void SerialDevice_UART::Transmit(void*, size_t, uint16_t)	0	static
+ecliptar_sys_serial_uart.h:15:10:virtual SerialDevice_UART::~SerialDevice_UART()	8	static
+ecliptar_sys_serial_uart.cpp:3:1:SerialDevice_UART::SerialDevice_UART(UART_HandleTypeDef*)	0	static

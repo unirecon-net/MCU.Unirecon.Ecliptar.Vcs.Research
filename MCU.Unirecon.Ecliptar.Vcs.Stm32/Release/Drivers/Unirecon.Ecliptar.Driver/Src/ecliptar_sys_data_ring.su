@@ -1,0 +1,36 @@
+ecliptar_sys_data_ring.h:27:3:constexpr RingStructure::RingStructure()	16	static
+ecliptar_sys_data_ring.cpp:53:10:uint8_t Ring::Init(void*, size_t)	0	static
+ecliptar_sys_data_ring.cpp:17:1:Ring::Ring()	8	static
+ecliptar_sys_data_ring.cpp:22:1:Ring::Ring(size_t)	16	static
+ecliptar_sys_data_ring.cpp:27:1:Ring::Ring(void*, size_t)	16	static
+ecliptar_sys_data_ring.cpp:74:10:uint8_t Ring::IsReady()	0	static
+ecliptar_sys_data_ring.cpp:78:8:void Ring::Free()	0	static
+ecliptar_sys_data_ring.cpp:87:10:uint8_t Ring::Available()	0	static
+ecliptar_sys_data_ring.cpp:262:10:uint8_t Ring::Read()	0	static
+ecliptar_sys_data_ring.cpp:287:10:uint8_t Ring::ReadedByte()	0	static
+ecliptar_sys_data_ring.cpp:624:10:size_t Ring::FreeSize()	0	static
+ecliptar_sys_data_ring.cpp:94:10:size_t Ring::Write(const volatile void*, size_t)	24	static
+ecliptar_sys_data_ring.cpp:607:10:size_t Ring::Step(size_t)	8	static
+ecliptar_sys_data_ring.cpp:648:10:size_t Ring::FilledSize()	0	static
+ecliptar_sys_data_ring.cpp:33:9:void* Ring::operator[](size_t)	8	static
+ecliptar_sys_data_ring.cpp:291:10:size_t Ring::Read(void*, size_t)	24	static
+ecliptar_sys_data_ring.cpp:135:10:size_t Ring::Rewrite(Ring*, size_t)	32	static
+ecliptar_sys_data_ring.cpp:169:10:size_t Ring::Rewrite(Ring*)	8	static
+ecliptar_sys_data_ring.cpp:331:9:void* Ring::Read(size_t)	24	static
+ecliptar_sys_data_ring.cpp:372:9:void* Ring::ReadAll()	24	static
+ecliptar_sys_data_ring.cpp:414:10:size_t Ring::Peek(size_t, void*, size_t)	24	static
+ecliptar_sys_data_ring.cpp:458:9:void* Ring::Peek(size_t, size_t)	24	static
+ecliptar_sys_data_ring.cpp:508:9:void* Ring::PeekAll()	24	static
+ecliptar_sys_data_ring.cpp:543:9:void* Ring::PeekLast(size_t)	16	static
+ecliptar_sys_data_ring.cpp:550:9:void* Ring::PeekFirst(size_t)	24	static
+ecliptar_sys_data_ring.cpp:592:10:size_t Ring::Skip(size_t)	8	static
+ecliptar_sys_data_ring.cpp:174:10:size_t Ring::Overrewrite(Ring*, size_t)	32	static
+ecliptar_sys_data_ring.cpp:218:10:size_t Ring::Overwrite(const volatile void*, size_t)	24	static
+ecliptar_sys_data_ring.cpp:213:10:size_t Ring::Overrewrite(Ring*)	8	static
+ecliptar_sys_data_ring.cpp:669:10:size_t Ring::FullSize()	0	static
+ecliptar_sys_data_ring.cpp:674:8:void Ring::Reset()	0	static
+ecliptar_sys_data_ring.cpp:683:9:void* Ring::ReadAddress()	0	static
+ecliptar_sys_data_ring.cpp:691:10:size_t Ring::ReadLinearlength()	0	static
+ecliptar_sys_data_ring.cpp:718:9:void* Ring::WriteAddress()	0	static
+ecliptar_sys_data_ring.cpp:726:10:size_t Ring::WriteLinearlength()	0	static
+ecliptar_sys_data_ring.cpp:763:9:void* Ring::StartAddress()	0	static

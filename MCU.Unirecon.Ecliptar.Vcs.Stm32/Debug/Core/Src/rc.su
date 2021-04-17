@@ -1,0 +1,5 @@
+rc.cpp:3:11:void RemoteControl::Attach(RemoteController*)	16	static
+rc.cpp:8:19:virtual bool RemoteControl::Attached()	16	static
+rc.cpp:13:19:virtual bool RemoteControl::Available()	16	static
+rc.cpp:18:21:virtual ControlChannel* RemoteControl::ReadChannels()	16	static
+rc.cpp:23:19:virtual void RemoteControl::PrintInfoReport(ControlChannel*)	16	static

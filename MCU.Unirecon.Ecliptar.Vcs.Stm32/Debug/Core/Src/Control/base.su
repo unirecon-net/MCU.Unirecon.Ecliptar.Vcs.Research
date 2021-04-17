@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+base.h:38:13:void ControlHandlers::Add(ControlHandler*, uint32_t)	24	static
+base.cpp:10:13:void ControlHandler::attachController(int32_t)	16	static
+base.h:33:7:ControlHandlers::ControlHandlers()	16	static
+base.cpp:16:28:void __static_initialization_and_destruction_0(int, int)	16	static
+base.cpp:16:28:cpp)	8	static
+base.cpp:16:28:cpp)	8	static

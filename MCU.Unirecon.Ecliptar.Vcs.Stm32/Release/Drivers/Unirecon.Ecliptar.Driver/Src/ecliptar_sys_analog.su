@@ -1,0 +1,7 @@
+ecliptar_sys_analog.cpp:25:1:AdcData::AdcData(ADC_HandleTypeDef*, uint8_t, uint32_t*, size_t)	16	static
+ecliptar_sys_analog.cpp:14:1:AdcData::AdcData(ADC_HandleTypeDef*, uint32_t, size_t)	48	static
+ecliptar_sys_analog.cpp:10:1:AdcData::AdcData(ADC_HandleTypeDef*, uint32_t)	40	static
+ecliptar_sys_analog.cpp:20:1:AdcData::AdcData(ADC_HandleTypeDef*, uint8_t, uint32_t*)	48	static
+ecliptar_sys_analog.cpp:36:10:void AnalogConverters::Add(AnalogConverter*)	16	static
+ecliptar_sys_analog.cpp:51:18:AnalogConverter* AnalogConverters::Get(uint32_t)	16	static
+ecliptar_sys_analog.cpp:69:10:uint32_t AnalogConverters::Remove(uint32_t)	16	static

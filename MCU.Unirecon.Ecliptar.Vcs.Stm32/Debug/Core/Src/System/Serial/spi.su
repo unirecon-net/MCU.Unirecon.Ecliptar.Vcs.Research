@@ -1,0 +1,9 @@
+adapter.h:28:10:SerialAdapter::~SerialAdapter()	16	static
+adapter.h:28:10:virtual SerialAdapter::~SerialAdapter()	16	static
+spi.h:14:10:SerialDevice_SPI::~SerialDevice_SPI()	16	static
+spi.h:14:10:virtual SerialDevice_SPI::~SerialDevice_SPI()	16	static
+adapter.h:25:7:SerialAdapter::SerialAdapter()	16	static
+spi.cpp:3:1:SerialDevice_SPI::SerialDevice_SPI(SPI_HandleTypeDef*)	16	static
+spi.cpp:11:6:virtual void SerialDevice_SPI::Receive(void*, size_t, uint16_t)	24	static
+spi.cpp:15:6:virtual void SerialDevice_SPI::Transmit(void*, size_t, uint16_t)	24	static
+spi.cpp:19:10:virtual uint32_t SerialDevice_SPI::DeviceAddress()	16	static

@@ -1,0 +1,23 @@
+analog.h:35:10:AnalogConverter::~AnalogConverter()	16	static
+analog.h:35:10:virtual AnalogConverter::~AnalogConverter()	16	static
+analog.h:32:7:AnalogConverter::AnalogConverter()	16	static
+drive.cpp:11:1:DriveSystem::DriveSystem()	16	static
+drive.cpp:17:6:bool DriveSystem::Init(AdcData*)	16	static
+drive.cpp:35:6:bool DriveSystem::Inited()	16	static
+drive.cpp:40:6:bool DriveSystem::Available()	16	static
+drive.cpp:49:6:void DriveSystem::PrintMotionReport()	104	static
+drive.cpp:70:6:void DriveSystem::PrintMeasureReport()	88	static
+drive.cpp:96:6:void DriveSystem::PrintDynamicsReport()	32	static
+drive.cpp:120:6:void DriveSystem::PrintPositionReport()	32	static
+drive.cpp:154:6:void DriveSystem::PrintInfoReport()	32	static
+drive.cpp:183:13:virtual void DriveSystem::ConversionComplete(AdcData*, size_t)	24	static
+drive.cpp:188:13:virtual void DriveSystem::ConversionHalfComplete(AdcData*, size_t)	24	static
+drive.h:15:7:DriveSystem::~DriveSystem()	16	static
+drive.h:15:7:virtual DriveSystem::~DriveSystem()	16	static
+drive.cpp:194:18:void __static_initialization_and_destruction_0(int, int)	16	static
+ecliptor.h:242:7:EcliptorProperties::~EcliptorProperties()	16	static
+ecliptor.h:242:7:virtual EcliptorProperties::~EcliptorProperties()	16	static
+ecliptor.h:270:7:EcliptorDriver::~EcliptorDriver()	16	static
+ecliptor.h:270:7:virtual EcliptorDriver::~EcliptorDriver()	16	static
+drive.cpp:194:18:cpp)	8	static
+drive.cpp:194:18:cpp)	8	static

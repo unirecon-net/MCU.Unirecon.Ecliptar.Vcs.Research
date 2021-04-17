@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "EcliptarRadioControllerPPM.cpp",
+    "output": "bin",
+    "port": "COM4"
+}

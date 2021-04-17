@@ -1,0 +1,9 @@
+adapter.h:28:10:SerialAdapter::~SerialAdapter()	16	static
+adapter.h:28:10:virtual SerialAdapter::~SerialAdapter()	16	static
+i2c.h:15:10:SerialDevice_I2C::~SerialDevice_I2C()	16	static
+i2c.h:15:10:virtual SerialDevice_I2C::~SerialDevice_I2C()	16	static
+adapter.h:25:7:SerialAdapter::SerialAdapter()	16	static
+i2c.cpp:3:1:SerialDevice_I2C::SerialDevice_I2C(I2C_HandleTypeDef*, uint8_t)	24	static
+i2c.cpp:11:6:virtual void SerialDevice_I2C::Receive(void*, size_t, uint16_t)	32	static
+i2c.cpp:15:6:virtual void SerialDevice_I2C::Transmit(void*, size_t, uint16_t)	32	static
+i2c.cpp:20:10:virtual uint32_t SerialDevice_I2C::DeviceAddress()	16	static

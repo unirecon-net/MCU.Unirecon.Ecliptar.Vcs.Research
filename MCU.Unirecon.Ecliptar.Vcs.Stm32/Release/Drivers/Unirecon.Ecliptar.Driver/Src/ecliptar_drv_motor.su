@@ -1,0 +1,7 @@
+ecliptar_drv_motor.cpp:12:1:MotorDriver::MotorDriver()	0	static
+ecliptar_drv_motor.cpp:25:25:void MotorDriver::Attach(PwmTimer*, int, int)	4	static
+ecliptar_drv_motor.cpp:21:25:void MotorDriver::Attach(PwmTimer*)	0	static
+ecliptar_drv_motor.cpp:35:25:bool MotorDriver::Attached()	0	static
+ecliptar_drv_motor.cpp:40:25:void MotorDriver::PowerLevel(int)	24	static
+ecliptar_drv_motor.cpp:64:25:void MotorDriver::PowerLevel(float)	24	static
+ecliptar_drv_motor.cpp:96:25:void MotorDriver::revolutionSpeed(uint16_t)	0	static

@@ -1,0 +1,7 @@
+scan.cpp:12:6:void setScanner(SerialDevice*)	16	static
+scan.cpp:16:9:uint8_t checkScanner(SerialDevice*)	24	static
+scan.cpp:22:15:SerialDevice* getScanner()	4	static
+scan.cpp:26:9:int16_t uartscan(uint16_t, const char*, va_list)	32	static
+scan.cpp:51:9:int16_t scandata(uint16_t, void*, size_t)	24	static
+scan.cpp:66:9:)	20	static
+scan.cpp:77:9:int16_t scanfull(uint16_t, void*)	24	static

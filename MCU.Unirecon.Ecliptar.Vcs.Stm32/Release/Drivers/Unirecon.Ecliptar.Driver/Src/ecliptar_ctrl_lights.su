@@ -1,0 +1,8 @@
+ecliptar_ctrl_lights.cpp:10:1:LightsController::LightsController()	8	static
+ecliptar_ctrl_lights.cpp:15:13:void LightsController::assign(int, uint16_t, int, uint16_t, int)	12	static
+ecliptar_ctrl_lights.cpp:19:13:void LightsController::assign(int, uint16_t, ControlChannel*, uint16_t, ControlChannel*)	0	static
+ecliptar_ctrl_lights.cpp:62:13:void LightsController::lightSwitch(LightProperties*)	0	static
+ecliptar_ctrl_lights.cpp:28:13:virtual void LightsController::handleControl(uint8_t)	16	static
+ecliptar_ctrl_lights.cpp:54:13:virtual void LightsController::handleControlStop()	8	static
+ecliptar_ctrl_lights.cpp:74:1:cpp)	0	static
+ecliptar_ctrl_lights.cpp:74:1:cpp)	0	static

@@ -1,0 +1,11 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+base.h:22:7:constexpr ControlHandler::ControlHandler()	16	static
+lights.cpp:10:1:LightsController::LightsController()	16	static
+lights.cpp:15:13:void LightsController::assign(int, uint16_t, int, uint16_t, int)	32	static
+lights.cpp:19:13:void LightsController::assign(int, uint16_t, ControlChannel*, uint16_t, ControlChannel*)	24	static
+lights.cpp:28:13:virtual void LightsController::handleControl(uint8_t)	32	static
+lights.cpp:54:13:virtual void LightsController::handleControlStop()	16	static
+lights.cpp:62:13:void LightsController::lightSwitch(LightProperties*)	16	static
+lights.cpp:74:1:void __static_initialization_and_destruction_0(int, int)	16	static
+lights.cpp:74:1:cpp)	8	static
+lights.cpp:74:1:cpp)	8	static

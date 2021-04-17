@@ -1,0 +1,7 @@
+ecliptar_sys_scan.cpp:12:6:void setScanner(SerialDevice*)	0	static
+ecliptar_sys_scan.cpp:16:9:uint8_t checkScanner(SerialDevice*)	16	static
+ecliptar_sys_scan.cpp:22:15:SerialDevice* getScanner()	0	static
+ecliptar_sys_scan.cpp:26:9:int16_t uartscan(uint16_t, const char*, va_list)	24	static
+ecliptar_sys_scan.cpp:51:9:int16_t scandata(uint16_t, void*, size_t)	24	static
+ecliptar_sys_scan.cpp:66:9:)	12	static
+ecliptar_sys_scan.cpp:77:9:int16_t scanfull(uint16_t, void*)	16	static

@@ -1,0 +1,10 @@
+core_cm4.h:2064:26:uint32_t ITM_SendChar(uint32_t)	16	static,ignoring_inline_asm
+print.cpp:12:6:void setPrinter(SerialDevice*)	16	static
+print.cpp:16:9:uint8_t checkPrinter(SerialDevice*)	24	static
+print.cpp:22:15:SerialDevice* getPrinter()	4	static
+print.cpp:26:6:void uartprint(const char*, va_list)	24	static
+print.cpp:38:6:void swvprint(const char*, va_list)	24	static
+print.cpp:48:6:)	16	static
+print.cpp:59:6:void printnln()	8	static
+print.cpp:63:6:)	16	static
+print.cpp:69:6:)	16	static

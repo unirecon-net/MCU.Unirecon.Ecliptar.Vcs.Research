@@ -1,0 +1,9 @@
+ecliptar_ctrl_ecliptor.cpp:45:13:virtual void EcliptorController::handleControlStop()	8	static
+ecliptar_ctrl_ecliptor.cpp:10:1:EcliptorController::EcliptorController(EcliptorDriver*, int)	16	static
+ecliptar_ctrl_ecliptor.cpp:21:13:void EcliptorController::assign(int, int, int, MixDirection, int, int, MixDirection)	12	static
+ecliptar_ctrl_ecliptor.cpp:26:13:void EcliptorController::assign(int, ControlChannel*, ControlChannel*, MixDirection, ControlChannel*, ControlChannel*, MixDirection)	0	static
+ecliptar_ctrl_ecliptor.cpp:51:13:void EcliptorController::handleEccntrControl(uint8_t)	0	static
+ecliptar_ctrl_ecliptor.cpp:77:13:void EcliptorController::handleRotatorControl(uint8_t)	0	static
+ecliptar_ctrl_ecliptor.cpp:37:13:virtual void EcliptorController::handleControl(uint8_t)	16	static
+ecliptar_ctrl_ecliptor.cpp:100:1:cpp)	0	static
+ecliptar_ctrl_ecliptor.cpp:100:1:cpp)	0	static

@@ -1,0 +1,7 @@
+ecliptar_ctrl_motor.cpp:25:13:virtual void MotorController::handleControl(uint8_t)	0	static
+ecliptar_ctrl_motor.cpp:34:13:virtual void MotorController::handleControlStop()	0	static
+ecliptar_ctrl_motor.cpp:10:1:MotorController::MotorController(MotorDriver*, int)	8	static
+ecliptar_ctrl_motor.cpp:16:13:void MotorController::assign(int, int)	0	static
+ecliptar_ctrl_motor.cpp:20:13:void MotorController::assign(int, ControlChannel*)	0	static
+ecliptar_ctrl_motor.cpp:37:1:cpp)	0	static
+ecliptar_ctrl_motor.cpp:37:1:cpp)	0	static

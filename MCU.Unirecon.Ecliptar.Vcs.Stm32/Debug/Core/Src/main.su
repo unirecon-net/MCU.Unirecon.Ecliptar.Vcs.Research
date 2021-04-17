@@ -1,0 +1,6 @@
+config.h:14:6:void DriveSystem_Config()	56	static
+config.h:36:6:void RemoteController_Config()	88	static
+config.h:47:6:void SerialUSB_Config()	4	static
+main.cpp:72:5:int main()	8	static
+main.cpp:138:6:void SystemClock_Config()	184	static
+main.cpp:201:6:void Error_Handler()	4	static,ignoring_inline_asm

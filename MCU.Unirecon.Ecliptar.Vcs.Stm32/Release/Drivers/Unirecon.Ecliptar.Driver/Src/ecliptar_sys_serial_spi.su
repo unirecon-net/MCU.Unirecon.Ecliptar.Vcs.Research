@@ -1,0 +1,6 @@
+ecliptar_sys_serial_spi.h:14:10:SerialDevice_SPI::~SerialDevice_SPI()	0	static
+ecliptar_sys_serial_spi.cpp:19:10:virtual uint32_t SerialDevice_SPI::DeviceAddress()	0	static
+ecliptar_sys_serial_spi.cpp:11:6:virtual void SerialDevice_SPI::Receive(void*, size_t, uint16_t)	0	static
+ecliptar_sys_serial_spi.cpp:15:6:virtual void SerialDevice_SPI::Transmit(void*, size_t, uint16_t)	0	static
+ecliptar_sys_serial_spi.h:14:10:virtual SerialDevice_SPI::~SerialDevice_SPI()	8	static
+ecliptar_sys_serial_spi.cpp:3:1:SerialDevice_SPI::SerialDevice_SPI(SPI_HandleTypeDef*)	0	static

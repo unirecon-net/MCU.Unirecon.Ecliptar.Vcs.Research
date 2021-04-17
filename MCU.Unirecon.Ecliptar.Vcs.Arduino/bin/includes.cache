@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "e:\\_DEVELING\\_PROJECTS\\MCU\\Unirecon\\Ecliptar\\Research\\Ecliptar\\bin\\sketch\\Ecliptar.ino.cpp",
+    "Include": "EcliptarRadioController.h",
+    "Includepath": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\EcliptarRadioController"
+  },
+  {
+    "Sourcefile": "e:\\_DEVELING\\_PROJECTS\\MCU\\Unirecon\\Ecliptar\\Research\\Ecliptar\\bin\\sketch\\Ecliptar.ino.cpp",
+    "Include": "EcliptarDriveSystem.h",
+    "Includepath": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\EcliptarDriveSystem"
+  },
+  {
+    "Sourcefile": "e:\\_DEVELING\\_PROJECTS\\MCU\\Unirecon\\Ecliptar\\Research\\Ecliptar\\bin\\sketch\\Ecliptar.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "e:\\_DEVELING\\_PROJECTS\\MCU\\Unirecon\\Ecliptar\\Research\\Ecliptar\\bin\\sketch\\Ecliptar.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\EcliptarRadioController\\EcliptarRadioController.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\EcliptarDriveSystem\\EcliptarDriveSystem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\dariu\\Documents\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

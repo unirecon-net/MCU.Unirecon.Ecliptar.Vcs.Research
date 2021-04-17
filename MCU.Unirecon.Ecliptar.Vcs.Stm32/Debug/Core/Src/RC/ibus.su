@@ -1,0 +1,27 @@
+ibus.h:43:2:RC_IBUS::~RC_IBUS()	16	static
+adapter.h:18:7:constexpr SerialEvent::SerialEvent()	16	static
+base.h:29:7:constexpr RemoteController::RemoteController()	16	static
+ibus.cpp:10:1:RC_IBUS::RC_IBUS()	16	static
+ibus.cpp:17:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*)	40	static
+ibus.cpp:21:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, uint16_t*, uint16_t*, uint16_t*)	40	static
+ibus.cpp:28:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, uint16_t*, uint16_t*, uint16_t*, int*)	40	static
+ibus.cpp:71:6:void RC_IBUS::Attach(uint8_t, UART_HandleTypeDef*, ControlChannel*)	40	static
+ibus.cpp:106:6:virtual bool RC_IBUS::Attached()	16	static
+ibus.cpp:114:6:virtual bool RC_IBUS::Available()	16	static
+ibus.cpp:124:17:virtual ControlChannel* RC_IBUS::ReadChannels()	24	static,ignoring_inline_asm
+ibus.cpp:146:9:uint8_t RC_IBUS::readChannel(ControlChannel*)	24	static
+ibus.cpp:158:9:uint8_t RC_IBUS::AddSensor(uint8_t, uint8_t)	24	static
+ibus.cpp:173:6:void RC_IBUS::SetSensorMeasurement(uint8_t, int32_t)	24	static
+ibus.cpp:179:9:uint8_t RC_IBUS::pulseDepreciation(ControlChannel*)	32	static
+ibus.cpp:217:7:float RC_IBUS::pulseToPercents(ControlChannel*)	32	static
+ibus.cpp:240:6:virtual void RC_IBUS::PrintInfoReport(ControlChannel*)	32	static
+ibus.cpp:260:13:virtual void RC_IBUS::ReceiptCompleteEvent(Ring*, size_t)	24	static
+ibus.cpp:264:13:virtual void RC_IBUS::TransmitCompleteEvent(Ring*, size_t)	24	static
+ibus.cpp:268:13:void RC_IBUS::ibusReceiver(Ring*, size_t)	32	static
+ibus.cpp:325:13:bool RC_IBUS::ibusChecksum(uint8_t*)	32	static
+ibus.cpp:339:13:void RC_IBUS::ibusChannels(uint8_t*)	32	static
+ibus.cpp:354:13:void RC_IBUS::ibusSensors(uint8_t*)	40	static
+ibus.cpp:418:13:void RC_IBUS::ibusReset()	16	static
+ibus.cpp:433:11:void __static_initialization_and_destruction_0(int, int)	16	static
+ibus.cpp:433:11:cpp)	8	static
+ibus.cpp:433:11:cpp)	8	static

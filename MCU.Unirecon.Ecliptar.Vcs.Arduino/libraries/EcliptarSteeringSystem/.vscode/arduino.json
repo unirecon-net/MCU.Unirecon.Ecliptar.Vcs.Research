@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "EcliptarSteeringSystem.cpp",
+    "output": "bin",
+    "port": "COM4"
+}

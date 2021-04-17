@@ -1,0 +1,9 @@
+motor.cpp:12:1:MotorDriver::MotorDriver()	16	static
+motor.cpp:21:25:void MotorDriver::Attach(PwmTimer*)	16	static
+motor.cpp:25:25:void MotorDriver::Attach(PwmTimer*, int, int)	24	static
+motor.cpp:35:25:bool MotorDriver::Attached()	16	static
+motor.cpp:40:25:void MotorDriver::PowerLevel(int)	32	static
+motor.cpp:55:24:void MotorDriver::innerPowerLevel(int)	16	static
+motor.cpp:64:25:void MotorDriver::PowerLevel(float)	24	static
+motor.cpp:85:24:void MotorDriver::innerPowerLevel(float)	16	static
+motor.cpp:96:25:void MotorDriver::revolutionSpeed(uint16_t)	16	static

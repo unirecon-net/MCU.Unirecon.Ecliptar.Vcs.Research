@@ -1,0 +1,9 @@
+ecliptar_sys_print.cpp:12:6:void setPrinter(SerialDevice*)	0	static
+ecliptar_sys_print.cpp:16:9:uint8_t checkPrinter(SerialDevice*)	16	static
+ecliptar_sys_print.cpp:22:15:SerialDevice* getPrinter()	0	static
+ecliptar_sys_print.cpp:26:6:void uartprint(const char*, va_list)	16	static
+ecliptar_sys_print.cpp:38:6:void swvprint(const char*, va_list)	16	static,ignoring_inline_asm
+ecliptar_sys_print.cpp:48:6:)	16	static
+ecliptar_sys_print.cpp:59:6:void printnln()	0	static
+ecliptar_sys_print.cpp:63:6:)	8	static
+ecliptar_sys_print.cpp:69:6:)	8	static

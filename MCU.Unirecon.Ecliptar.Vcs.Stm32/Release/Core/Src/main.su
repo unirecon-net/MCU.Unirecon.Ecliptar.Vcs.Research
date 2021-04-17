@@ -1,0 +1,6 @@
+ecliptar_cfg.h:14:6:void DriveSystem_Config()	88	static
+ecliptar_cfg.h:36:6:void RemoteController_Config()	96	static
+ecliptar_cfg.h:47:6:void SerialUSB_Config()	16	static
+main.cpp:140:6:void SystemClock_Config()	192	static,ignoring_inline_asm
+main.cpp:203:6:void Error_Handler()	0	static,ignoring_inline_asm
+main.cpp:72:5:int main()	16	static

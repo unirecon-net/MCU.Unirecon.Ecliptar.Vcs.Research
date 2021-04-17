@@ -1,0 +1,2 @@
+ecliptar_sys_base.cpp:3:5:i32 mapInt(i32, i32, i32, i32, i32)	0	static
+ecliptar_sys_base.cpp:8:7:float mapFloat(float, float, float, float, float)	0	static

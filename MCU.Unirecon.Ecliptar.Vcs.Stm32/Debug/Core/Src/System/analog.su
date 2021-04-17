@@ -1,0 +1,8 @@
+analog.h:39:12:uint32_t AnalogConverter::ConverterAddress()	16	static
+analog.cpp:4:1:AdcData::AdcData(ADC_HandleTypeDef*, uint32_t)	56	static
+analog.cpp:8:1:AdcData::AdcData(ADC_HandleTypeDef*, uint32_t, size_t)	64	static
+analog.cpp:14:1:AdcData::AdcData(ADC_HandleTypeDef*, uint8_t, uint32_t*)	64	static
+analog.cpp:19:1:AdcData::AdcData(ADC_HandleTypeDef*, uint8_t, uint32_t*, size_t)	32	static
+analog.cpp:30:10:void AnalogConverters::Add(AnalogConverter*)	24	static
+analog.cpp:45:18:AnalogConverter* AnalogConverters::Get(uint32_t)	32	static
+analog.cpp:63:10:uint32_t AnalogConverters::Remove(uint32_t)	32	static
